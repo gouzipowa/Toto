@@ -1,0 +1,15 @@
+nav {
+	width: 10em;
+	border: 3px outset white;
+	border-radius: 5px;
+	padding: 5px;
+}
+
+nav ul {
+	list-style-type: none;
+	margin: 0px;
+	padding:0px;
+	text-align: center;
+	margin-left:1em;
+	margin-right:1em;
+}

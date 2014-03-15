@@ -1,0 +1,39 @@
+header {
+	background-color: gray;
+	border: 3px outset white;
+	border-radius: 5px;
+	position:relative;
+}
+
+#main_title {
+	 position: relative;
+}
+
+header h1 {
+	font-family: alex_brushregular, serif;
+	font-size: 5em;
+	font-weight: normal;
+}
+
+#logo, header h1 {
+	display: inline-block;
+	margin: 0px;
+}
+
+header h2 {
+	font-family: cantarellregular, serif;
+	font-size: 1.1em;
+	margin-top: 0px;
+	font-weight: normal;
+}
+
+#search_div {
+	background-color: black;
+	border-top: 3px solid white;
+	border-left: 3px solid white;
+	border-radius: 5px 0px 0px 0px;
+	padding: 6px;
+	position: absolute;
+	right: 0px;
+	bottom: 0px;
+}

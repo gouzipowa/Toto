@@ -1,0 +1,35 @@
+#banner_picture {
+	margin-top: 20px;
+	height: 12em;
+	width: 60em;
+	border-radius: 5px;
+	background: url('../src/img/bann_teso2.jpg') no-repeat ;
+	position: relative;
+	margin-bottom: 20px;
+	border: 3px white outset;
+}
+
+#banner_description {
+	position: absolute;
+	border-radius: 0px 5px 0px 0px;
+	bottom: 0px;
+	padding: 5px;
+	background-color: gray;
+	color: white;
+	font-size: 1.1em;
+	border-top: 1px solid white;
+	border-right: 1px solid white;
+}
+
+
+#banner_button {
+	position: absolute;
+	right: 5px;
+	bottom: 5px;
+	padding: 6px;
+	
+}
+
+#banner_button img {
+	border: 0;
+}
